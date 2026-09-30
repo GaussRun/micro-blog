@@ -1,0 +1,16 @@
+title: GaussRun notes
+description: Small notes from building things. What broke, what the numbers said.
+author: GaussRun
+url: https://gaussrun.github.io
+baseurl: /micro-blog
+theme: minima
+permalink: /:year/:month/:day/:title.html
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+github_username: GaussRun
