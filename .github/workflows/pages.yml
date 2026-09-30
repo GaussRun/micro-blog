@@ -1,8 +1,8 @@
-name: Deploy to GitHub Pages
+name: Deploy to GitHub Pages (manual, only for Source = GitHub Actions)
 
+# Pages is set to "Deploy from a branch", which builds on every push by itself.
+# This workflow is kept for switching to Source = GitHub Actions later.
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
 
 permissions:
