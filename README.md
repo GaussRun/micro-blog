@@ -1,6 +1,6 @@
-# GaussRun notes
+# GaussRun
 
-Small notes from building things. What broke, what the numbers said.
+Small notes from building things.
 
 Web: https://gaussrun.github.io/micro-blog/  ·  RSS: https://gaussrun.github.io/micro-blog/feed.xml
 

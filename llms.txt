@@ -1,4 +1,4 @@
-# GaussRun notes
+# GaussRun
 > Short engineering notes: small experiment results, tool gotchas, failure causes.
 
 - [All notes (RSS)](https://gaussrun.github.io/micro-blog/feed.xml)
