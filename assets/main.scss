@@ -1,0 +1,39 @@
+---
+---
+// Dark by default. minima 2.5 (the GitHub Pages version) has no dark skin,
+// so set its color variables before the import and patch the few hardcoded ones after.
+$background-color: #0f1216;
+$text-color: #d4d8de;
+$brand-color: #6cb6ff;
+$grey-color: #8b949e;
+$grey-color-light: #2a3038;
+$grey-color-dark: #c9d1d9;
+
+@import "minima";
+
+:root { color-scheme: dark; }
+
+a:visited { color: #a5c8f0; }
+
+.site-header { border-top-color: #2a3038; border-bottom-color: #2a3038; }
+.site-title, .site-title:visited { color: #e6edf3; }
+.site-footer { border-top-color: #2a3038; }
+
+pre, code {
+  background-color: #161b22;
+  border-color: #2a3038;
+  color: #e6edf3;
+}
+
+.highlight, .highlight .w, .highlighter-rouge .highlight { background: #161b22; color: #e6edf3; }
+.highlight .c, .highlight .c1, .highlight .cm { color: #8b949e; }
+.highlight .k, .highlight .kd, .highlight .kn { color: #ff7b72; font-weight: normal; }
+.highlight .s, .highlight .s1, .highlight .s2 { color: #a5d6ff; }
+.highlight .n, .highlight .nx, .highlight .na, .highlight .nb { color: #e6edf3; }
+.highlight .mi, .highlight .mf { color: #79c0ff; }
+.highlight .o, .highlight .p { color: #e6edf3; font-weight: normal; }
+
+table { color: #d4d8de; border-color: #2a3038; }
+table th { background-color: #1c2128; border-color: #2a3038; }
+table td { border-color: #2a3038; }
+table tr:nth-child(even) { background-color: #141920; }
