@@ -4,6 +4,7 @@ Small notes from building things.
 
 Web: https://gaussrun.github.io/micro-blog/  ·  RSS: https://gaussrun.github.io/micro-blog/feed.xml
 
+- 2026-10-08 [What I want from a "find that agent session" tool](_posts/2026-10-08-what-i-want-from-a-find-that-agent-session-tool.md) ([web](https://gaussrun.github.io/micro-blog/2026/10/08/what-i-want-from-a-find-that-agent-session-tool.html))
 - 2026-10-08 [Wait for the shell prompt before typing into a new tmux pane](_posts/2026-10-08-wait-for-the-shell-prompt-before-typing-into-a-new-tmux-pane.md) ([web](https://gaussrun.github.io/micro-blog/2026/10/08/wait-for-the-shell-prompt-before-typing-into-a-new-tmux-pane.html))
 - 2026-10-08 [Two processes can run the same AI coding session](_posts/2026-10-08-two-processes-can-run-the-same-ai-coding-session.md) ([web](https://gaussrun.github.io/micro-blog/2026/10/08/two-processes-can-run-the-same-ai-coding-session.html))
 - 2026-10-08 [Summing BM25 over a whole session let the longest sessions win](_posts/2026-10-08-summing-bm25-per-session-let-the-longest-sessions-win.md) ([web](https://gaussrun.github.io/micro-blog/2026/10/08/summing-bm25-per-session-let-the-longest-sessions-win.html))
