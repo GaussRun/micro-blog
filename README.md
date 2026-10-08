@@ -4,6 +4,11 @@ Small notes from building things.
 
 Web: https://gaussrun.github.io/micro-blog/  ·  RSS: https://gaussrun.github.io/micro-blog/feed.xml
 
+- 2026-10-08 [Wait for the shell prompt before typing into a new tmux pane](_posts/2026-10-08-wait-for-the-shell-prompt-before-typing-into-a-new-tmux-pane.md) ([web](https://gaussrun.github.io/micro-blog/2026/10/08/wait-for-the-shell-prompt-before-typing-into-a-new-tmux-pane.html))
+- 2026-10-08 [Two processes can run the same AI coding session](_posts/2026-10-08-two-processes-can-run-the-same-ai-coding-session.md) ([web](https://gaussrun.github.io/micro-blog/2026/10/08/two-processes-can-run-the-same-ai-coding-session.html))
+- 2026-10-08 [Summing BM25 over a whole session let the longest sessions win](_posts/2026-10-08-summing-bm25-per-session-let-the-longest-sessions-win.md) ([web](https://gaussrun.github.io/micro-blog/2026/10/08/summing-bm25-per-session-let-the-longest-sessions-win.html))
+- 2026-10-08 [Searching for "ats" matched every prompt with "at"](_posts/2026-10-08-searching-for-ats-matched-every-prompt-with-at.md) ([web](https://gaussrun.github.io/micro-blog/2026/10/08/searching-for-ats-matched-every-prompt-with-at.html))
+- 2026-10-08 [Scrubbing only the visible snippet leaks half a secret](_posts/2026-10-08-scrubbing-only-the-visible-snippet-leaks-half-a-secret.md) ([web](https://gaussrun.github.io/micro-blog/2026/10/08/scrubbing-only-the-visible-snippet-leaks-half-a-secret.html))
 - 2026-10-08 [19 of 36 Nostr relays accepted a 55 KB event from a stranger](_posts/2026-10-08-nostr-relays-that-took-a-strangers-55-kb-event.md) ([web](https://gaussrun.github.io/micro-blog/2026/10/08/nostr-relays-that-took-a-strangers-55-kb-event.html))
 - 2026-10-08 [Most free Blossom servers only take images](_posts/2026-10-08-most-free-blossom-servers-only-take-images.md) ([web](https://gaussrun.github.io/micro-blog/2026/10/08/most-free-blossom-servers-only-take-images.html))
 - 2026-10-08 [CryptPad quietly adds a salt to your username](_posts/2026-10-08-cryptpad-quietly-adds-a-salt-to-your-username.md) ([web](https://gaussrun.github.io/micro-blog/2026/10/08/cryptpad-quietly-adds-a-salt-to-your-username.html))
